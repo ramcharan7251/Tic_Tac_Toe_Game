@@ -1,7 +1,7 @@
 # Tic_Tac_Toe_Game
 Developed a classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
-## Deployeyed At :##  [Play here](https://rc-tic-tac-toe-game.netlify.app)
+## Deployeyed At : [Play here](https://rc-tic-tac-toe-game.netlify.app)
 
 ## Author
 **Author:** Parvatham Ram Charan
