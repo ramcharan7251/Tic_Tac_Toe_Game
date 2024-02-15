@@ -17,8 +17,8 @@ This repository contains a simple implementation of the classic Tic Tac Toe game
 
 **1.Clone the Repository:** Clone this repository to your local machine using the following command:
                               '''sh
-                              https://github.com/ramcharan7251/Tic_Tac_Toe_Game
-**2.Open:**  'index.html:' Open the index.html file in your preferred web browser to start playing the game.
+                              https://github.com/ramcharan7251/Tic_Tac_Toe_Game<br>
+**2.Open:**  'index.html:' Open the index.html file in your preferred web browser to start playing the game.<br>
 **3.GamePlay:** Take turns clicking on the empty spaces to place your symbol (X or O). The first player to get three of their symbols in a row, column, or diagonal wins the game. If all spaces 
                     are filled and no player has achieved a winning combination, the game ends in a draw.
 
